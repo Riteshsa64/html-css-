@@ -1,0 +1,18 @@
+
+h1{
+    background-color: chartreuse;
+    border: 10px solid #621435;
+    width: 200px;
+    height: 200px;
+    display: inline;
+    box-sizing:border-box;
+
+}
+h2{
+    background-color: aquamarine;
+    border: 15px solid orange;
+    width: 200px;
+    height: px;
+
+    box-sizing:content-box ;
+}
